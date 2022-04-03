@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lana</name>
+    </assembly>
+    <members>
+        <member name="F:Lana.Logon.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Lana.Logon.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Lana.Logon.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Lana.MainForm.#ctor">
+            <summary>
+            MainForm
+            </summary>
+        </member>
+        <member name="M:Lana.MainForm.sendMessage(System.Byte[])">
+            <summary>
+            Used By TCP Cliant
+            </summary>
+            <param name="messageBytes"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lana.MainForm.sendMessage(System.Byte[],System.Net.Sockets.TcpClient)">
+            <summary>
+            Used By Mini TCP Server
+            </summary>
+            <param name="bytes"></param>
+            <param name="client"></param>
+        </member>
+        <member name="F:Lana.MainForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Lana.MainForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Lana.MainForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Lana.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Lana.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Lana.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Lana.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+X:\LANA\Client\Lana\Lilka\bin\Debug\Lilka.exe
+X:\LANA\Client\Lana\Lilka\bin\Debug\Lilka.pdb
+X:\LANA\Client\Lana\Lilka\bin\Debug\Newtonsoft.Json.dll
+X:\LANA\Client\Lana\Lilka\bin\Debug\Newtonsoft.Json.xml
+X:\LANA\Client\Lana\Lilka\obj\Debug\Lilka.csprojAssemblyReference.cache
+X:\LANA\Client\Lana\Lilka\obj\Debug\Lilka.csproj.CoreCompileInputs.cache
+X:\LANA\Client\Lana\Lilka\obj\Debug\Lilka.csproj.CopyComplete
+X:\LANA\Client\Lana\Lilka\obj\Debug\Lilka.exe
+X:\LANA\Client\Lana\Lilka\obj\Debug\Lilka.pdb

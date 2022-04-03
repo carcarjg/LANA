@@ -1,0 +1,15 @@
+X:\LANA\Client\Lana\Lana\bin\Debug\Lana.exe
+X:\LANA\Client\Lana\Lana\bin\Debug\Lana.pdb
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.csprojAssemblyReference.cache
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.MainForm.resources
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.Properties.Resources.resources
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.csproj.GenerateResource.cache
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.csproj.CoreCompileInputs.cache
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.exe
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.pdb
+X:\LANA\Client\Lana\Lana\bin\Debug\Lana.xml
+X:\LANA\Client\Lana\Lana\bin\Debug\Newtonsoft.Json.dll
+X:\LANA\Client\Lana\Lana\bin\Debug\Newtonsoft.Json.xml
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.csproj.CopyComplete
+X:\LANA\Client\Lana\Lana\bin\Debug\Lana.exe.config
+X:\LANA\Client\Lana\Lana\obj\Debug\Lana.Logon.resources
